@@ -1,14 +1,22 @@
-⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒ ⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒ 
+⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒ ⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒ ⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒ ⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒ 
 <h1 align="center">Hi 👋, I'm Bianca Piovano</h1>
 <h3 align="center">Passionated QA Automation from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bianpiovano&label=Profile%20views&color=0e75b6&style=flat" alt="bianpiovano" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bianpiovano&label=Profile%20views&color=b40e1e&style=flat" alt="bianpiovano" /> </p>
 
 <p align="left"> <a href="https://twitter.com/biancafpiovano" target="blank"><img src="https://img.shields.io/twitter/follow/biancafpiovano?logo=twitter&style=for-the-badge" alt="biancafpiovano" /></a> </p>
 
+- 🔭 I’m currently looking for a job as QA Automation
+
+- 🌱 I’m currently learning Cypress
+
 - 👨‍💻 All of my personal projects are available at my GitHub [https://github.com/bianpiovano](https://github.com/bianpiovano)
 
-- 📫 My linkedin account or my email: **bianpiovano@gmail.com**
+- 💬 Ask me about any automation tool
+
+- 📫 My email: **bianpiovano@gmail.com**
+
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bianpiovano&show_icons=true&locale=en" alt="bianpiovano" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bianpiovano&" alt="bianpiovano" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bianpiovano&theme=dark" alt="bianpiovano" /></p>
