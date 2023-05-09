@@ -1,4 +1,4 @@
-⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒ 
+⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒ ⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒ 
 <h1 align="center">Hi 👋, I'm Bianca Piovano</h1>
 <h3 align="center">Passionated QA Automation from Argentina</h3>
 
@@ -25,27 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bianpiovano&" alt="bianpiovano" /></p>
 
-
-
-
-Hi I am Bianca Piovano 👋
-Pronouns: She/Her
-
-🔭 I’m currently looking for a job as QA Automation.
-📄 Know about my experiences: I worked as QA Automation at a bank 1 year.
-🌱 I’m currently learning Cypress.
-
-💬 Ask me about any automation tools.
-👨‍💻 All of my personal automation projects are available at my Github.
-📫 You can reach me with my linkedin profile link or my email:
-bianpiovano@gmail.com
-
-💻 My programming languages: Ruby, Java, JavaScript y Python.
-🤖 Automation E2E Tools: Selenium, Katalon, Cypress
-⚙️ Database testing: MySQL
-🔧 APIs testing: Postman
-👥 Project Managment: Jira, Azure, Git
- 
-
-
-⭒＊*•✩•*˚⍣˚*•✩•*˚＊⭒
