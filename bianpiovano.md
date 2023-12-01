@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/biancafpiovano" target="blank"><img src="https://img.shields.io/twitter/follow/biancafpiovano?logo=twitter&style=for-the-badge" alt="biancafpiovano" /></a> </p>
 
-- 🔭 I’m currently looking for a job as QA Automation
+- 🔭 I’m currently looking for a job as QA Automation or Manual
 
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m currently learning Playwright
 
 - 👨‍💻 All of my personal projects are available at my GitHub [https://github.com/bianpiovano](https://github.com/bianpiovano)
 
