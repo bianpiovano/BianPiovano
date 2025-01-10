@@ -1,4 +1,4 @@
-<h3 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☼ ﾟ｡⋆. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅౨ৎ. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆<h/3>
+<h3 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☼ ﾟ｡⋆. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ݁ ˖   ✦    ‧₊˚ . ݁₊ ⊹ . ݁˖ . ݁.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆<h/3>
 <h1 align="center">Hi 👋, I'm Bianca Piovano</h1>
 <h3 align="center">Passionated QA Analyst & Automation from Argentina</h3>
 
