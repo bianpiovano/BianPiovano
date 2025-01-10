@@ -1,12 +1,12 @@
-<h3 align="center">. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅౨ৎ. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅<h/3>
+<h3 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅౨ৎ. ݁₊ ⊹ . ݁˖ . ݁.𖥔 ݁ ˖   ✦    ‧₊˚ ⋅⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆<h/3>
 <h1 align="center">Hi 👋, I'm Bianca Piovano</h1>
-<h3 align="center">Passionated QA Automation from Argentina</h3>
+<h3 align="center">Passionated QA Analyst & Automation from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bianpiovano&label=Profile%20views&color=b40e1e&style=flat" alt="bianpiovano" /> </p>
 
 <p align="left"> <a href="https://twitter.com/biancafpiovano" target="blank"><img src="https://img.shields.io/twitter/follow/biancafpiovano?logo=twitter&style=for-the-badge" alt="biancafpiovano" /></a> </p>
 
-- 🔭 I’m currently looking for a job as QA Automation or Manual
+- 🔭 I’m currently looking for a job as QA (automation, functional or analyst)
 
 - 🌱 I’m currently learning Playwright
 
